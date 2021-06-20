@@ -22,7 +22,6 @@ require "paq-nvim" {
 -- Dashboard.nvim
 
 footers = {
-    "Doofenshmirtz Evil inc. 2021©",
     "MoltenCoreDev 2021©",
     "Also try Megalomacs©!",
     "Also try LunarVim©!",
@@ -31,8 +30,8 @@ footers = {
 
 
 vim.g.dashboard_custom_header = {
-    "        Welcome to SSOVim!",
-    "The stolen shitty opinionated vim."
+    "Welcome summoner to lolvi,",
+    "The League of Legends vi!"
 }
 
 math.randomseed(os.clock())

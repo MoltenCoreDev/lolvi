@@ -1,9 +1,6 @@
-# Welcome to ssovim
+# Welcome to lolvi
 
-S stolen
-S shitty
-O opinionated
-VIM
+The League of Legends vim config you have been waiting for!
 
 This is a basic config to make nvim your IDE!
 
@@ -16,5 +13,5 @@ This is a basic config to make nvim your IDE!
 ## Installation
 
 ```bash
-git clone https://github.com/MoltenCoreDev/ssovim ~/.config/nvim
+git clone https://github.com/MoltenCoreDev/lolvi ~/.config/nvim
 ```

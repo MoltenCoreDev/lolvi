@@ -13,6 +13,3 @@ bind("n", "<Leader>e", "tabn", true)
 -- telescope.nvim
 bind("n", "<Leader>f", "Telescope find_files", true)
 bind("n", "<Leader>t", "Telescope", true)
-
--- Temp
-bind("n", "<Leader>c", "luafile %", true)
