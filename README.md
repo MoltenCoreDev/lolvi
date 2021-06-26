@@ -15,3 +15,4 @@ This is a basic config to make nvim your IDE!
 ```bash
 git clone https://github.com/MoltenCoreDev/lolvi ~/.config/nvim
 ```
+then run :PaqInstall to install plugins.
